@@ -1,0 +1,18 @@
+body{
+  background-color: #2b2b2b;
+}
+
+::-webkit-scrollbar{
+  width: 4px;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb{
+  background-color: #b8b8b8;
+  border-radius: 10px;
+}
+
+@font-face {
+  font-family: ProductSans;
+  src: url(../public/fonts/ProductSans-Regular.ttf);
+}
